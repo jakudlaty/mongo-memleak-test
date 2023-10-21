@@ -1,5 +1,6 @@
 # mongo-memleak-test
 Example that shows mongodb driver version 2.7 has a potential memory leak
+This repository is an example for issue: https://github.com/mongodb/mongo-rust-driver/issues/978
 
 - left axis is virtual size
 - right axis is size
